@@ -9,16 +9,16 @@ Topics:
         <a href="#general-developer-questions">General Developer Questions</a>
     </li>
     <li>
-        Core Java
+        <a href="#core-java">Core Java</a>
     </li>
     <li>
-        Android Design and XML
+        <a href="#android-design-and-xml">Android Design and XML</a>
     </li>
     <li>
-        Android Networking
+        <a href="#android-networking">Android Networking</a>
     </li>
     <li>
-        Databases
+        <a href="#databases">Databases</a>
     </li>
 </ul>
 
