@@ -6,6 +6,9 @@ Android-Interview-Questions
 Topics:
 <ul>
     <li>
+        General Developer Questions
+    </li>
+    <li>
         Core Java
     </li>
     <li>
@@ -19,7 +22,17 @@ Topics:
     </li>
 </ul>
 
+<h2>General Developer Questions</h2>
+
 <h2>Core Java</h2>
+<ul>
+    <li>
+        What are the use cases and differences of arrays and ArrayLists?
+    </li>
+    <li>
+        What are the use cases and differences of a HashSet and a TreeSet?
+    </li>
+</ul>
 
 <h2>Android Design and XML</h2>
 
