@@ -6,7 +6,7 @@ Android-Interview-Questions
 Topics:
 <ul>
     <li>
-        General Developer Questions
+        <a href="#general-developer-questions">General Developer Questions</a>
     </li>
     <li>
         Core Java
