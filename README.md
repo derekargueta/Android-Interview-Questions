@@ -15,7 +15,6 @@ Topics:
     <li>
         Databases
     </li>
-    <li>
 </ul>
 
 <h2>Core Java</h2>
