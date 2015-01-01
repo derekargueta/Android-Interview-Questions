@@ -23,8 +23,14 @@ Topics:
 </ul>
 
 <h2>General Developer Questions</h2>
+<ul>
+    <li>
+        How familiar you are with the Android and Google Guidelines?
+    </li>
+</ul>
 
 <h2>Core Java</h2>
+<h4>Data Structures</h4>
 <ul>
     <li>
         What are the use cases and differences of arrays and ArrayLists?
@@ -33,9 +39,23 @@ Topics:
         What are the use cases and differences of a HashSet and a TreeSet?
     </li>
 </ul>
+<h4>Build Tools</h4>
+<ul>
+    <li>
+        Have you used any Ant, Maven, Gradle features for you project?
+    </li>
+</ul>
 
 <h2>Android Design and XML</h2>
 
 <h2>Android Networking</h2>
+<ul>
+    <li>
+        Have you use an HTTP Library, which, why, did you like it?
+    </li>
+    <li>
+        Describe how REST APIs work.
+    </li>
+</ul>
 
 <h2>Databases</h2>
