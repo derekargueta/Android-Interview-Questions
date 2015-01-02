@@ -89,10 +89,10 @@ Topics:
         Describe Activities. <a href="http://developer.android.com/reference/android/app/Activity.html" target="_blank">[info]</a>
     </li>
     <li>
-        What are the four states of the Activity Lifecycle? [active/running, paused, stopped, destroyed]
+        What are the four states of the Activity Lifecycle? <p style="color:#4183c4">[active/running, paused, stopped, destroyed]</p>
     </li>
     <li>
-        What are the seven callback methods of an Activity used to perform operations when the Activity transitions between states? [onCreate(), onStart(), onResume(), onPause(), onStop(), onRestart(), onDestroy()]
+        What are the seven callback methods of an Activity used to perform operations when the Activity transitions between states? <p style="color:#4183c4">[onCreate(), onStart(), onResume(), onPause(), onStop(), onRestart(), onDestroy()]</p>
     <li>
         What are Intents? <a href="http://developer.android.com/guide/components/intents-filters.html" target="_blank">[info]</a>
     </li>
