@@ -54,7 +54,10 @@ Topics:
         Explain object serialization and how to implement it in Java.
     </li>
     <li>
-        Explain anonymous classes.
+        Explain anonymous classes. <a href="http://docs.oracle.com/javase/tutorial/java/javaOO/anonymousclasses.html" target="_blank">[info]</a>
+    </li>
+    <li>
+        Describe the differences between abstract classes and interfaces. <a href="http://www.javaworld.com/article/2077421/learn-java/abstract-classes-vs-interfaces.html" target="_blank">[info]</a>
     </li>
 </ul>
 
