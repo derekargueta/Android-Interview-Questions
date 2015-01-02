@@ -150,4 +150,13 @@ Topics:
     <li>
         Why does Android use SQLite?
     </li>
+    <li>
+        What libraries have you used for interacting with databases and why did you choose them?
+    </li>
+    <li>
+        What are contract classes? <a href="http://developer.android.com/training/basics/data-storage/databases.html" target="_blank">[info]</a>
+    </li>
+    <li>
+        How do you use the BaseColumns interface to describe your data schema? <a href="http://developer.android.com/training/basics/data-storage/databases.html" target="_blank">[info]</a>
+    </li>
 </ul>
