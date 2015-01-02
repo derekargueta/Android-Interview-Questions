@@ -85,12 +85,45 @@ Topics:
     <li>
         How can two distinct Android apps interact? (several answers)
     </li>
+    <li>
+        Describe Activities.
+    </li>
+    <li>
+        What are Intents? <a href="http://developer.android.com/guide/components/intents-filters.html" target="_blank">[info]</a>
+    </li>
+    <li>
+        What is an Implicit Intent? <a href="http://developer.android.com/guide/components/intents-filters.html" target="_blank">[info]</a>
+    </li>
+    <li>
+        What is an Explicit Intent? <a href="http://developer.android.com/guide/components/intents-filters.html" target="_blank">[info]</a>
+    </li>
+    <li>
+        Describe three common use cases for using an Intent.
+    </li>
+    <li>
+        What is a Service? <a href="http://developer.android.com/guide/components/services.html" target="_blank">[info]</a>
+    </li>
+    <li>
+        What is a Content Provider? <a href="http://developer.android.com/guide/topics/providers/content-providers.html" target="_blank">[info]</a>
+    </li>
+    <li>
+        What is a Fragment? <a href="http://developer.android.com/guide/components/fragments.html" target="_blank">[info]</a>
+    </li>
+    <li>
+        What is ADB?
+    </li>
+    <li>
+        What is ANR?
+    </li>
 </ul>
 
 <h2>Android Design and XML</h2>
 <ul>
     <li>
         Explain the differences and similarities of Relative Layout and Linear Layout.
+    </li>
+    <li>
+        Explain the differences and similarities of List Views and Grid Views.
     </li>
     <li>
         Describe how to implement XML namespaces.
