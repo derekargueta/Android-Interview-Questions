@@ -12,6 +12,9 @@ Topics:
         <a href="#core-java">Core Java</a>
     </li>
     <li>
+        <a href="#core-android">Core Android</a>
+    </li>
+    <li>
         <a href="#android-design-and-xml">Android Design and XML</a>
     </li>
     <li>
@@ -27,9 +30,34 @@ Topics:
     <li>
         How familiar you are with the Android and Google Guidelines?
     </li>
+    <li>
+        Describe Test-Driven Development.
+    </li>
+    <li>
+        Explain unit tests versus functional tests.
+    </li>
+    <li>
+        Describe Scrum and Kanban.
+    </li>
+    <li>
+        What project management tools have you used?
+    </li>
+    <li>
+        How do you ensure that you are working efficiently?
+    </li>
 </ul>
 
 <h2>Core Java</h2>
+<h4>Object-Oriented Programming</h4>
+<ul>
+    <li>
+        Explain object serialization and how to implement it in Java.
+    </li>
+    <li>
+        Explain anonymous classes.
+    </li>
+</ul>
+
 <h4>Data Structures</h4>
 <ul>
     <li>
@@ -46,7 +74,25 @@ Topics:
     </li>
 </ul>
 
+<h2>Core Android</h2>
+<ul>
+    <li>
+        How does the Android notification system work?
+    </li>
+    <li>
+        How can two distinct Android apps interact? (several answers)
+    </li>
+</ul>
+
 <h2>Android Design and XML</h2>
+<ul>
+    <li>
+        Explain the differences and similarities of Relative Layout and Linear Layout.
+    </li>
+    <li>
+        Describe how to implement XML namespaces.
+    </li>
+</ul>
 
 <h2>Android Networking</h2>
 <ul>
