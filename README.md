@@ -133,6 +133,11 @@ Topics:
     <li>
         Describe how to implement XML namespaces.
     </li>
+    <li>
+        Explain how to present different styles/drawables for a button depending
+        on the state of the button (pressed, selected, etc.) using XML (no Java)
+        <a href="http://developer.android.com/guide/topics/resources/drawable-resource.html#StateList">[info]</a>
+    </li>
 </ul>
 
 <h2>Android Networking</h2>
