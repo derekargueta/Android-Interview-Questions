@@ -18,18 +18,23 @@ Topics:
 * Describe Scrum and Kanban.
 * What project management tools have you used?
 * How do you ensure that you are working efficiently?
+* Do you have basic familiarity with working on the command line i.e. Gradle, Ant, or the Java Compiler?
 
 ## Core Java
 #### Object-Oriented Programming
 * Explain object serialization and how to implement it in Java.
 * Explain anonymous classes. [[info]](http://docs.oracle.com/javase/tutorial/java/javaOO/anonymousclasses.html)
 * Describe the differences between abstract classes and interfaces. [[info]](http://www.javaworld.com/article/2077421/learn-java/abstract-classes-vs-interfaces.html)
+* Explain what a Singleton class is and how to create one in Java [[info]](http://www.javaworld.com/article/2073352/core-java/simply-singleton.html)
 
 #### Data Structures
 * What are the use cases and differences of arrays and ArrayLists?
 * What are the use cases and differences of a HashSet and a TreeSet?
 #### Build Tools
 * Have you used any Ant, Maven, Gradle features for you project?
+
+#### Programming Paradigms
+* Explain event-driven programming in Java [[info]](http://en.wikibooks.org/wiki/Java_Programming/Event_Handling)
 
 ## Core Android
 * How does the Android notification system work?
@@ -57,6 +62,7 @@ on the state of the button (pressed, selected, etc.) using XML (no Java) [[info]
 ## Android Networking
 * Have you use an HTTP Library, which, why, did you like it?
 * Describe how REST APIs work.
+* What are some typical methods of HTTP request/responses? [[GET, POST, PUT, PATCH, DELETE, UPDATE]]()
 
 ## Databases
 * Why does Android use SQLite?
