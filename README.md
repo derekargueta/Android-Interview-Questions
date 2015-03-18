@@ -30,6 +30,7 @@ Topics:
 #### Data Structures
 * What are the use cases and differences of arrays and ArrayLists?
 * What are the use cases and differences of a HashSet and a TreeSet?
+
 #### Build Tools
 * Have you used any Ant, Maven, Gradle features for you project?
 
