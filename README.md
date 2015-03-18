@@ -42,7 +42,7 @@ Topics:
 * How can two distinct Android apps interact? (several answers)
 * Describe Activities. [[info]](http://developer.android.com/reference/android/app/Activity.html)
 * What are the four states of the Activity Lifecycle? [[active/running, paused, stopped, destroyed]](#)
-* What are the seven callback methods of an Activity used to perform operations when the Activity transitions between states? [onCreate(), onStart(), onResume(), onPause(), onStop(), onRestart(), onDestroy()]]()
+* What are the seven callback methods of an Activity used to perform operations when the Activity transitions between states? [[onCreate(), onStart(), onResume(), onPause(), onStop(), onRestart(), onDestroy()]]()
 * What are Intents? [[info]](http://developer.android.com/guide/components/intents-filters.html)
 * What is an Implicit Intent? [[info]](http://developer.android.com/guide/components/intents-filters.html)
 * What is an Explicit Intent? [[info]](http://developer.android.com/guide/components/intents-filters.html)
