@@ -62,6 +62,7 @@ Topics:
 * Explain how to present different styles/drawables for a button depending
 on the state of the button (pressed, selected, etc.) using XML (no Java) [[info]](http://developer.android.com/guide/topics/resources/drawable-resource.html#StateList)
 * for layout_width and layout_height, what's the difference between match_parent and wrap_content?
+* How do you implement Google's new Material Design in an Android application? [[info]](https://developer.android.com/training/material/get-started.html)
 
 ## Android Networking
 * Have you use an HTTP Library, which, why, did you like it?
