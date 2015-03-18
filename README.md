@@ -37,6 +37,8 @@ Topics:
 #### Programming Paradigms
 * Explain event-driven programming in Java [[info]](http://en.wikibooks.org/wiki/Java_Programming/Event_Handling)
 * What is Java's Garbage Collection and how does it help you as a developer?
+* How can you typecast in Java? [[info]](http://www.studytonight.com/java/type-casting-in-java)
+* Explain Java's try-catch-finally paradigm [[info]](http://www.studytonight.com/java/type-casting-in-java)
 
 ## Core Android
 * How does the Android notification system work?
