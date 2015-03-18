@@ -36,6 +36,7 @@ Topics:
 
 #### Programming Paradigms
 * Explain event-driven programming in Java [[info]](http://en.wikibooks.org/wiki/Java_Programming/Event_Handling)
+* What is Java's Garbage Collection and how does it help you as a developer?
 
 ## Core Android
 * How does the Android notification system work?
@@ -52,6 +53,7 @@ Topics:
 * What is a Fragment? [[info]](http://developer.android.com/guide/components/fragments.html)
 * What is ADB?
 * What is ANR?
+* What is AndroidManifest.xml used for? Give examples of what kind of data you would add to it. [[info]](http://developer.android.com/guide/topics/manifest/manifest-intro.html)
 
 ## Android Design and XML
 * Explain the differences and similarities of Relative Layout and Linear Layout.
@@ -59,6 +61,7 @@ Topics:
 * Describe how to implement XML namespaces.
 * Explain how to present different styles/drawables for a button depending
 on the state of the button (pressed, selected, etc.) using XML (no Java) [[info]](http://developer.android.com/guide/topics/resources/drawable-resource.html#StateList)
+* for layout_width and layout_height, what's the difference between match_parent and wrap_content?
 
 ## Android Networking
 * Have you use an HTTP Library, which, why, did you like it?
