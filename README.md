@@ -56,6 +56,7 @@ Topics:
 * What is ADB?
 * What is ANR?
 * What is AndroidManifest.xml used for? Give examples of what kind of data you would add to it. [[info]](http://developer.android.com/guide/topics/manifest/manifest-intro.html)
+* Describe how broadcasts and intents work to be able to pass messages around your app.[[info]](http://www.techotopia.com/index.php/Android_Broadcast_Intents_and_Broadcast_Receivers)
 
 ## Android Design and XML
 * Explain the differences and similarities of Relative Layout and Linear Layout.
