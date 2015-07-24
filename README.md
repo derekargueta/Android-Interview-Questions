@@ -34,7 +34,7 @@ Topics:
 * What are the use cases and differences of a HashSet and a TreeSet?
 
 #### Build Tools
-* Have you used any Ant, Maven, Gradle features for you project?
+* Have you used any Ant, Maven, Gradle features for your project?
 
 #### Programming Paradigms
 * Explain event-driven programming in Java [[info]](http://en.wikibooks.org/wiki/Java_Programming/Event_Handling)
