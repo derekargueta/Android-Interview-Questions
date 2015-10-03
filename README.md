@@ -48,17 +48,21 @@ Topics:
 * Describe Activities. [[info]](http://developer.android.com/reference/android/app/Activity.html)
 * What are the four states of the Activity Lifecycle? [[active/running, paused, stopped, destroyed]](#)
 * What are the seven callback methods of an Activity used to perform operations when the Activity transitions between states? [[onCreate(), onStart(), onResume(), onPause(), onStop(), onRestart(), onDestroy()]]()
+* What is the difference between a fragment and an activity? Explain the relationship between the two.
+* What is the difference between Serializable and Parcelable? Which is the best approach in Android?
+* What are "launch modes"?
 * What are Intents? [[info]](http://developer.android.com/guide/components/intents-filters.html)
 * What is an Implicit Intent? [[info]](http://developer.android.com/guide/components/intents-filters.html)
 * What is an Explicit Intent? [[info]](http://developer.android.com/guide/components/intents-filters.html)
 * Describe three common use cases for using an Intent.
 * What is a Service? [[info]](http://developer.android.com/guide/components/services.html)
-* What is a Content Provider? [[info]](http://developer.android.com/guide/topics/providers/content-providers.html)
+* What is a ContentProvider and what is it typically used for? [[info]](http://developer.android.com/guide/topics/providers/content-providers.html)
 * What is a Fragment? [[info]](http://developer.android.com/guide/components/fragments.html)
 * What is ADB?
 * What is ANR?
 * What is AndroidManifest.xml used for? Give examples of what kind of data you would add to it. [[info]](http://developer.android.com/guide/topics/manifest/manifest-intro.html)
 * Describe how broadcasts and intents work to be able to pass messages around your app.[[info]](http://www.techotopia.com/index.php/Android_Broadcast_Intents_and_Broadcast_Receivers)
+* What is the Dalvik Virtual Machine?
 
 ## Android Design and XML
 * Explain the differences and similarities of Relative Layout and Linear Layout.
