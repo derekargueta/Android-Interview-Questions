@@ -63,6 +63,8 @@ Topics:
 * What is AndroidManifest.xml used for? Give examples of what kind of data you would add to it. [[info]](http://developer.android.com/guide/topics/manifest/manifest-intro.html)
 * Describe how broadcasts and intents work to be able to pass messages around your app.[[info]](http://www.techotopia.com/index.php/Android_Broadcast_Intents_and_Broadcast_Receivers)
 * What is the Dalvik Virtual Machine?
+* What are different ways to store data in your Android app? [[info]](https://developer.android.com/guide/topics/data/data-storage.html)
+* Android appplication components [[info]](http://www.tutorialspoint.com/android/android_application_components.htm)
 
 ## Android Design and XML
 * Explain the differences and similarities of Relative Layout and Linear Layout.
@@ -72,6 +74,7 @@ Topics:
 on the state of the button (pressed, selected, etc.) using XML (no Java) [[info]](http://developer.android.com/guide/topics/resources/drawable-resource.html#StateList)
 * for layout_width and layout_height, what's the difference between match_parent and wrap_content?
 * How do you implement Google's new Material Design in an Android application? [[info]](https://developer.android.com/training/material/get-started.html)
+* Difference between View.GONE and View.INVISIBLE?
 
 ## Android Networking
 * Have you use an HTTP Library, which, why, did you like it?
