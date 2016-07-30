@@ -28,6 +28,8 @@ Topics:
 * Explain what a Singleton class is and how to create one in Java [[info]](http://www.javaworld.com/article/2073352/core-java/simply-singleton.html)
 * Why should the equals() and hashCode() methods often be overridden together? [[info]](http://stackoverflow.com/questions/2265503/why-do-i-need-to-override-the-equals-and-hashcode-methods-in-java/2265637#2265637)
 * How do you properly override the equals() method? For example, what considerations should be taken when checking for equality? [[info]](http://www.geeksforgeeks.org/overriding-equals-method-in-java/)
+* Difference between final, finally and finalize?
+* In Java, does the finally block gets executed if we insert a return statement inside the try block of a try-catch-finally?
 
 #### Data Structures
 * What are the use cases and differences of arrays and ArrayLists?
@@ -46,14 +48,14 @@ Topics:
 * How does the Android notification system work?
 * How can two distinct Android apps interact? (several answers)
 * Describe Activities. [[info]](http://developer.android.com/reference/android/app/Activity.html)
-* What are the four states of the Activity Lifecycle? [[active/running, paused, stopped, destroyed]](#)
-* What are the seven callback methods of an Activity used to perform operations when the Activity transitions between states? [[onCreate(), onStart(), onResume(), onPause(), onStop(), onRestart(), onDestroy()]]()
+* What are the four states of the Activity Lifecycle? [[active/running, paused, stopped, destroyed]](https://developer.android.com/reference/android/app/Activity.html#ActivityLifecycle)
+* What are the seven callback methods of an Activity used to perform operations when the Activity transitions between states? [[onCreate(), onStart(), onResume(), onPause(), onStop(), onRestart(), onDestroy()]](https://developer.android.com/reference/android/app/Activity.html#ActivityLifecycle)
 * What is the difference between a fragment and an activity? Explain the relationship between the two.
 * What is the difference between Serializable and Parcelable? Which is the best approach in Android?
 * What are "launch modes"?
 * What are Intents? [[info]](http://developer.android.com/guide/components/intents-filters.html)
-* What is an Implicit Intent? [[info]](http://developer.android.com/guide/components/intents-filters.html)
-* What is an Explicit Intent? [[info]](http://developer.android.com/guide/components/intents-filters.html)
+* What is an Implicit Intent? [[info]](https://developer.android.com/guide/components/intents-filters.html#ExampleSend)
+* What is an Explicit Intent? [[info]](https://developer.android.com/guide/components/intents-filters.html#ExampleExplicit)
 * Describe three common use cases for using an Intent.
 * What is a Service? [[info]](http://developer.android.com/guide/components/services.html)
 * What is a ContentProvider and what is it typically used for? [[info]](http://developer.android.com/guide/topics/providers/content-providers.html)
