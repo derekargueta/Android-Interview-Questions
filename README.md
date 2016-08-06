@@ -67,6 +67,9 @@ Topics:
 * What is the Dalvik Virtual Machine?
 * What are different ways to store data in your Android app? [[info]](https://developer.android.com/guide/topics/data/data-storage.html)
 * Android appplication components [[info]](http://www.tutorialspoint.com/android/android_application_components.htm)
+* What is the relationship between the life cycle of an AsyncTask and an Activity? What problems can this result in? How can these problems be avoided?
+* What is the difference between Service and IntentService? How is each used?
+* What is a Sticky Intent?
 
 ## Android Design and XML
 * Explain the differences and similarities of Relative Layout and Linear Layout.
