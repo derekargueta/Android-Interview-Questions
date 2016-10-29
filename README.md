@@ -22,6 +22,7 @@ Topics:
 
 ## Core Java
 #### Object-Oriented Programming
+* What are the main 3 Object Oriented Programing (OOP) concepts?
 * Explain object serialization and how to implement it in Java.
 * Explain anonymous classes. [[info]](http://docs.oracle.com/javase/tutorial/java/javaOO/anonymousclasses.html)
 * Describe the differences between abstract classes and interfaces. [[info]](http://www.javaworld.com/article/2077421/learn-java/abstract-classes-vs-interfaces.html)
@@ -30,6 +31,7 @@ Topics:
 * How do you properly override the equals() method? For example, what considerations should be taken when checking for equality? [[info]](http://www.geeksforgeeks.org/overriding-equals-method-in-java/)
 * Difference between final, finally and finalize?
 * In Java, does the finally block gets executed if we insert a return statement inside the try block of a try-catch-finally?
+* Explain method overloading & overriding. 
 
 #### Data Structures
 * What are the use cases and differences of arrays and ArrayLists?
@@ -70,6 +72,10 @@ Topics:
 * What is the relationship between the life cycle of an AsyncTask and an Activity? What problems can this result in? How can these problems be avoided?
 * What is the difference between Service and IntentService? How is each used?
 * What is a Sticky Intent?
+* What is AIDL? [[info]](https://developer.android.com/guide/components/aidl.html)
+* What is dependency injection? 
+* What are the different protection levels in permission? [[info]](https://developer.android.com/guide/topics/manifest/permission-element.html)
+* 
 
 ## Android Design and XML
 * Explain the differences and similarities of Relative Layout and Linear Layout.
