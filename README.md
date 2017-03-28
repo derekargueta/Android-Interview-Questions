@@ -32,6 +32,7 @@ Topics:
 * Difference between final, finally and finalize?
 * In Java, does the finally block gets executed if we insert a return statement inside the try block of a try-catch-finally?
 * Explain method overloading & overriding. 
+* What is memory leak and how does Java handle it?
 
 #### Data Structures
 * What are the use cases and differences of arrays and ArrayLists?
