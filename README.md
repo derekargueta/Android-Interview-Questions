@@ -30,13 +30,13 @@ Topics:
 * Why should the equals() and hashCode() methods often be overridden together? [[info]](http://stackoverflow.com/questions/2265503/why-do-i-need-to-override-the-equals-and-hashcode-methods-in-java/2265637#2265637)
 * How do you properly override the equals() method? For example, what considerations should be taken when checking for equality? [[info]](http://www.geeksforgeeks.org/overriding-equals-method-in-java/)
 * Difference between final, finally and finalize?
-* In Java, does the finally block gets executed if we insert a return statement inside the try block of a try-catch-finally?  [[info]]([https://stackoverflow.com/a/65049/497132])
+* In Java, does the finally block gets executed if we insert a return statement inside the try block of a try-catch-finally?  [[info]](https://stackoverflow.com/a/65049/497132)
 * Explain method overloading & overriding. 
-* What is memory leak and how does Java handle it? [[info]]([https://stackify.com/memory-leaks-java/])
+* What is memory leak and how does Java handle it? [[info]](https://stackify.com/memory-leaks-java/)
 
 #### Data Structures
 * What are the use cases and differences of arrays and ArrayLists?
-* What are the use cases and differences of a HashSet and a TreeSet?  [[info]]([https://stackoverflow.com/a/4464394/497132])
+* What are the use cases and differences of a HashSet and a TreeSet?  [[info]](https://stackoverflow.com/a/4464394/497132)
 
 #### Build Tools
 * Have you used any Ant, Maven, Gradle features for your project?
@@ -53,9 +53,9 @@ Topics:
 * Describe Activities. [[info]](http://developer.android.com/reference/android/app/Activity.html)
 * What are the four states of the Activity Lifecycle? [[active/running, paused, stopped, destroyed]](https://developer.android.com/reference/android/app/Activity.html#ActivityLifecycle)
 * What are the seven callback methods of an Activity used to perform operations when the Activity transitions between states? [[onCreate(), onStart(), onResume(), onPause(), onStop(), onRestart(), onDestroy()]](https://developer.android.com/reference/android/app/Activity.html#ActivityLifecycle)
-* What is the difference between a fragment and an activity? Explain the relationship between the two. [[info]]([https://stackoverflow.com/a/45252253/497132])
-* What is the difference between Serializable and Parcelable? Which is the best approach in Android? [[info]]([https://stackoverflow.com/a/50114007/497132])
-* What are "launch modes"? [[info]]([https://android.jlelse.eu/android-activity-launch-mode-e0df1aa72242])
+* What is the difference between a fragment and an activity? Explain the relationship between the two. [[info]](https://stackoverflow.com/a/45252253/497132)
+* What is the difference between Serializable and Parcelable? Which is the best approach in Android? [[info]](https://stackoverflow.com/a/50114007/497132)
+* What are "launch modes"? [[info]](https://android.jlelse.eu/android-activity-launch-mode-e0df1aa72242)
 * What are Intents? [[info]](http://developer.android.com/guide/components/intents-filters.html)
 * What is an Implicit Intent? [[info]](https://developer.android.com/guide/components/intents-filters.html#ExampleSend)
 * What is an Explicit Intent? [[info]](https://developer.android.com/guide/components/intents-filters.html#ExampleExplicit)
@@ -71,8 +71,8 @@ Topics:
 * What are different ways to store data in your Android app? [[info]](https://developer.android.com/guide/topics/data/data-storage.html)
 * Android appplication components [[info]](http://www.tutorialspoint.com/android/android\_application\_components.htm)
 * What is the relationship between the life cycle of an AsyncTask and an Activity? What problems can this result in? How can these problems be avoided?
-* What is the difference between Service and IntentService? How is each used? [[info]]([https://stackoverflow.com/a/15772151/497132])
-* What is a Sticky Intent? [[info]]([https://stackoverflow.com/a/26038985/497132])
+* What is the difference between Service and IntentService? How is each used? [[info]](https://stackoverflow.com/a/15772151/497132)
+* What is a Sticky Intent? [[info]](https://stackoverflow.com/a/26038985/497132)
 * What is AIDL? [[info]](https://developer.android.com/guide/components/aidl.html)
 * What is dependency injection? 
 * What are the different protection levels in permission? [[info]](https://developer.android.com/guide/topics/manifest/permission-element.html)
@@ -86,15 +86,15 @@ Topics:
 on the state of the button (pressed, selected, etc.) using XML (no Java) [[info]](http://developer.android.com/guide/topics/resources/drawable-resource.html#StateList)
 * for layout\_width and layout\_height, what's the difference between match\_parent and wrap\_content?
 * How do you implement Google's new Material Design in an Android application? [[info]](https://developer.android.com/training/material/get-started.html)
-* Difference between View.GONE and View.INVISIBLE? [[info]]([https://stackoverflow.com/a/11556629/497132])
+* Difference between View.GONE and View.INVISIBLE? [[info]](https://stackoverflow.com/a/11556629/497132)
 
 ## Android Networking
 * Have you use an HTTP Library, which, why, did you like it?
 * Describe how REST APIs work.
-* What are some typical methods of HTTP request/responses? [[GET, POST, PUT, PATCH, DELETE, UPDATE]]([http://www.restapitutorial.com/lessons/httpmethods.html])
+* What are some typical methods of HTTP request/responses? [[GET, POST, PUT, PATCH, DELETE, UPDATE]](http://www.restapitutorial.com/lessons/httpmethods.html)
 
 ## Databases
 * Why does Android use SQLite?
 * What libraries have you used for interacting with databases and why did you choose them?
-* What are contract classes? [[info]]([https://stackoverflow.com/a/36265603/497132])
-* How do you use the BaseColumns interface to describe your data schema? [[info]]([https://stackoverflow.com/a/7900591/497132])
+* What are contract classes? [[info]](https://stackoverflow.com/a/36265603/497132)
+* How do you use the BaseColumns interface to describe your data schema? [[info]](https://stackoverflow.com/a/7900591/497132)
