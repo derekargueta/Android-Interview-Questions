@@ -98,3 +98,4 @@ on the state of the button (pressed, selected, etc.) using XML (no Java) [[info]
 * What libraries have you used for interacting with databases and why did you choose them?
 * What are contract classes? [[info]](https://stackoverflow.com/a/36265603/497132)
 * How do you use the BaseColumns interface to describe your data schema? [[info]](https://stackoverflow.com/a/7900591/497132)
+* What is Room database? [[info]](https://developer.android.com/topic/libraries/architecture/room)
