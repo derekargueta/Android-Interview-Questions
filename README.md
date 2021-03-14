@@ -70,7 +70,7 @@ Topics:
 * What is the Dalvik Virtual Machine?
 * What are different ways to store data in your Android app? [[info]](https://developer.android.com/guide/topics/data/data-storage.html)
 * Android appplication components [[info]](http://www.tutorialspoint.com/android/android\_application\_components.htm)
-* What is the relationship between the life cycle of an AsyncTask and an Activity? What problems can this result in? How can these problems be avoided?
+* What is the relationship between the life cycle of an AsyncTask and an Activity? What problems can this result in? How can these problems be avoided?[[info]](https://li2.gitbooks.io/android-programming-journey/content/Background_Tasks/what-is-the-relationship-between-the-life-cycle-of-an-asynctask-and-an-activity.html)
 * What is the difference between Service and IntentService? How is each used? [[info]](https://stackoverflow.com/a/15772151/497132)
 * What is a Sticky Intent? [[info]](https://stackoverflow.com/a/26038985/497132)
 * What is AIDL? [[info]](https://developer.android.com/guide/components/aidl.html)
