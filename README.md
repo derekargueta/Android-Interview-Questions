@@ -31,7 +31,7 @@ Topics:
 * How do you properly override the equals() method? For example, what considerations should be taken when checking for equality? [[info]](http://www.geeksforgeeks.org/overriding-equals-method-in-java/)
 * Difference between final, finally and finalize?
 * In Java, does the finally block gets executed if we insert a return statement inside the try block of a try-catch-finally?  [[info]](https://stackoverflow.com/a/65049/497132)
-* Explain method overloading & overriding. 
+* Explain method overloading & overriding. [[info]](https://www.scaler.com/topics/overloading-vs-overriding-in-java/) 
 * What is memory leak and how does Java handle it? [[info]](https://stackify.com/memory-leaks-java/)
 
 #### Data Structures
